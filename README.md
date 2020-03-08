@@ -1,11 +1,13 @@
 # Uncertainty Mobile App
 
-#### Built using React Native
+#### Мобильное приложение основанное на [Uncertainty App](https://github.com/klimenkosergey/uncertainty-app). Создавалось для рассмотрения React Native.
 
-Requires expo-cli to be installed (`npm install -g expo-cli`). To run project:
+#### В проекте использовались: React, React Native
+
+Для запуска необходимо установить expo-cli (`npm install -g expo-cli`).
+
+Для запуска проекта:
 
 ```javascript
 npm run start
 ```
-
-Tested on iPhone XR simulator.
